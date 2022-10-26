@@ -9,5 +9,5 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-ya%C4%9Fmur-59b69b19a/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanyagmur&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanyagmur&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanyagmur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adnanyagmur&theme=dark&background=000000)](https://git.io/streak-stats)
